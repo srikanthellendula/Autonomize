@@ -1,0 +1,21 @@
+.icon{
+    height: 30px;
+    margin-right: 40px;
+}
+.item-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #456eb0;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    width: 80%;
+     
+}
+.item-head{
+    margin-right: 25px;
+    font-size: 20px;
+    margin-left: 20px;
+}

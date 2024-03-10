@@ -1,0 +1,25 @@
+.bg-cont{
+    background-color: #574f6e;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
+.button{
+    background-color: #456eb0;
+    color: white;
+    border: 0px solid #456eb0;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.main-head{
+    font-size: 50px;
+}
+.text-box{
+    height: 25px;
+    border: 0px solid white;
+    border-radius: 5px;
+    padding: 5px;
+}
